@@ -42,4 +42,3 @@ continuar = Console.ReadLine()!.ToLower();
 }
 Console.WriteLine("muito obrigado por usar o programa!");   
     }
-
